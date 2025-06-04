@@ -1,0 +1,36 @@
+{
+    "jeevi": [
+        {
+            "id": "75cc84ba-afd9-4d89-adac-f471f0343291",
+            "message": "Your post 'How i helped my son recover using ayurvedic remedies' was reported and removed by jeevitha.",
+            "read": true,
+            "user_id": "0186b85f-a09b-40c8-984c-74bdadf2559b"
+        },
+        {
+            "id": "830ec2b5-c5d0-4da2-b8d0-0336b2bf25b8",
+            "message": "Your post 'trial' was reported and removed by jeevitha.",
+            "read": true,
+            "user_id": "0186b85f-a09b-40c8-984c-74bdadf2559b"
+        },
+        {
+            "id": "83ae7cfc-d231-4f3f-b9b2-4e2bf7660424",
+            "message": "Your post 'Healing Naturally: My Experience with Ayurvedic Treatments for My Child's Cold' was deleted after multiple reports.",
+            "read": false,
+            "user_id": "0186b85f-a09b-40c8-984c-74bdadf2559b"
+        }
+    ],
+    "user1": [
+        {
+            "id": "bbe2f0c0-6afe-4d5e-b21d-c70be7d5e967",
+            "message": "Your post 'trial' was reported and removed by jeevi.",
+            "read": true,
+            "user_id": "0ac12897-41bb-41a6-abfc-962eec7d4199"
+        },
+        {
+            "id": "6af6e10a-4f6a-44da-8934-b39e5702c76d",
+            "message": "Your post 'home remedies to help with cold' was reported and removed by jeevitha.",
+            "read": true,
+            "user_id": "0ac12897-41bb-41a6-abfc-962eec7d4199"
+        }
+    ]
+}
